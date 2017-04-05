@@ -1,0 +1,27 @@
+{
+  "name": "botframeworktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bottest.js",
+  "scripts": {
+    "test": "node bottest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncoonrod/botframeworktest.git"
+  },
+  "author": "ncoonrod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncoonrod/botframeworktest/issues"
+  },
+  "homepage": "https://github.com/ncoonrod/botframeworktest#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "botbuilder": "^3.7.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
